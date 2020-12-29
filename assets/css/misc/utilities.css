@@ -35,7 +35,7 @@
 }
 
 .u-overlay.initialized::before {
-    opacity: 0;
+    opacity: 0.1;
 }
 
 .u-placeholder {
